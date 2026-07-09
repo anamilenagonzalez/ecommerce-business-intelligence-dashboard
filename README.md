@@ -10,13 +10,19 @@ The solution answers five strategic business questions covering executive perfor
 
 ---
 
-# 🎯 Business Questions Addressed
+## 🖼 Dashboard Preview
 
-1. Is the business growing in a healthy and sustainable way?
-2. Which products and categories are driving business performance?
-3. Which markets are driving business growth, and where are the greatest concentration risks?
-4. Are we successfully retaining customers over time?
-5. Based on historical trends, how is revenue expected to evolve?
+![Executive Business Overview](images/01-executive-overview.png)
+
+---
+
+# 🎯 Dashboards Included
+
+1. Executive Business Overview
+2. Product Performance Analysis
+3. Geographic Analysis
+4. Customer Retention & Cohort Analysis
+5. Revenue Forecast Analysis
 
 ---
 
@@ -26,7 +32,7 @@ Synthetic e-commerce dataset created for Business Intelligence and analytics pra
 
 The dataset includes:
 
-- Sales Transactions
+- Sales transactions
 - Customers
 - Products
 - Categories
@@ -43,6 +49,14 @@ The dataset includes:
 
 ---
 
+# 📁 Repository Contents
+
+- 📊 Power BI Dashboard (.pbix)
+- 🖼 Dashboard Screenshots
+- 📄 Project Documentation
+
+---
+
 # 📊 Executive Business Overview
 
 ![Executive Business Overview](images/01-executive-overview.png)
@@ -50,6 +64,12 @@ The dataset includes:
 ### Business Question
 
 **Is the business growing in a healthy and sustainable way, and what factors are driving or limiting that growth?**
+
+### Audience
+
+- CEO
+- Executive Leadership
+- Business Directors
 
 ### Key Insights
 
@@ -69,11 +89,17 @@ The dataset includes:
 
 # 📦 Product Performance Analysis
 
-![Product Performance](images/02-product-performance.png)
+![Product Performance Analysis](images/02-product-performance.png)
 
 ### Business Question
 
 **Which products and categories are driving business performance, and which represent opportunities or risks for future growth?**
+
+### Audience
+
+- Product Manager
+- Category Manager
+- Commercial Manager
 
 ### Key Insights
 
@@ -98,6 +124,12 @@ The dataset includes:
 
 **Which markets are driving business growth, and where are the greatest opportunities or concentration risks?**
 
+### Audience
+
+- Regional Sales Director
+- Commercial Director
+- Strategy Team
+
 ### Key Insights
 
 - Colombia is the largest revenue contributor, highlighting strong dependence on a single market.
@@ -115,22 +147,28 @@ The dataset includes:
 
 # 👥 Customer Retention & Cohort Analysis
 
-![Customer Retention](images/04-customer-retention.png)
+![Customer Retention & Cohort Analysis](images/04-customer-retention.png)
 
 ### Business Question
 
 **Are we successfully retaining customers over time, or are we losing them shortly after their first purchase?**
 
+### Audience
+
+- Growth Manager
+- CRM Manager
+- Marketing Manager
+
 ### Key Insights
 
 - The largest decline in customer retention occurs during the first months after acquisition.
-- After the initial drop, retention stabilizes at approximately 20%.
-- Recent cohorts show varying retention patterns, suggesting differences in acquisition quality or customer engagement.
+- After the initial drop, retention stabilizes at approximately 20%, suggesting a relatively consistent recurring customer base.
+- Recent cohorts show varying retention patterns, indicating potential differences in acquisition quality or customer engagement.
 
 ### Business Recommendations
 
 - Strengthen onboarding and engagement initiatives during the first months after acquisition.
-- Analyze high-performing cohorts to replicate successful acquisition strategies.
+- Analyze high-performing acquisition cohorts to replicate successful acquisition strategies.
 - Develop loyalty initiatives to increase repeat purchases.
 - Continuously monitor cohort performance to evaluate retention initiatives.
 
@@ -138,11 +176,17 @@ The dataset includes:
 
 # 📈 Revenue Forecast Analysis
 
-![Revenue Forecast](images/05-revenue-forecasting.png)
+![Revenue Forecast Analysis](images/05-revenue-forecasting.png)
 
 ### Business Question
 
 **Based on historical trends, how is revenue expected to evolve, and how reliable are those projections for business planning?**
+
+### Audience
+
+- Finance Manager
+- Strategy Manager
+- Business Planning Team
 
 ### Key Insights
 
